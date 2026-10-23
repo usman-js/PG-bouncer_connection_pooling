@@ -1,0 +1,4 @@
+
+"postgres" "practice"
+"app_migrator" "practice"
+"app_runtime" "practice"
